@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+*.txt.bak
+cookies.txt
+*.html
+*.json.bak
+test_client.py
+test_api.py
+generate_openapi.py
+*.txt
+!requirements.txt
