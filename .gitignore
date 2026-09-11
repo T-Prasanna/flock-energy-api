@@ -8,5 +8,4 @@ cookies.txt
 test_client.py
 test_api.py
 generate_openapi.py
-*.txt
-!requirements.txt
+upload.py
